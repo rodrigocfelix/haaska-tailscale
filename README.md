@@ -43,6 +43,7 @@ sed -i  s/minutes=30/days=3650/   /usr/src/homeassistant/homeassistant/auth/cons
 exit
 docker restart homeassistant
 ```
+.
 
 
 
